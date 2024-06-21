@@ -1,0 +1,4 @@
+i gooogled how to generate random variables folllowing various distributions, with given mean 
+using numpy. 
+then for epsilon values of 0, 0.01 and 0.1, i ran the simulation
+for updating estimates, i averaged out all the previous values
